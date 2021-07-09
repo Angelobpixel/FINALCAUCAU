@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dcc61e859f6dfd043a93eb7196d8518a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - VigaPavimento: {fileID: 453054836970845245, guid: 3c682f951ffbf6943850cc34b466b065, type: 3}
+  - VigaMadera: {fileID: 667796011422914762, guid: be6be4882c31bc646850be5c6ecc3c54, type: 3}
+  - VigaAcero: {fileID: 3778899106060945331, guid: 662f31b60aa0c9943b83f74c863691bf, type: 3}
+  - CurrentBar: {instanceID: 0}
+  - BarToInstantiate: {instanceID: 0}
+  - barParent: {instanceID: 0}
+  - CurrentStartPoint: {instanceID: 0}
+  - CurrentEndPoint: {instanceID: 0}
+  - PointToInstateLate: {instanceID: 0}
+  - PointParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
