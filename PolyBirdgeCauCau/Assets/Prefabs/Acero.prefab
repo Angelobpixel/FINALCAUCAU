@@ -75,7 +75,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -2
+  m_SortingOrder: -3
   m_Sprite: {fileID: -9062980084152416083, guid: 7d36327032fac3049a4848360e8600c6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -105,6 +105,8 @@ MonoBehaviour:
   boxCollider: {fileID: 6691904503463847448}
   StartJoint: {fileID: 431614443359402759}
   EndJoint: {fileID: 5144766488842972141}
+  costo: 1
+  costoActual: 0
 --- !u!50 &8005362776033920331
 Rigidbody2D:
   serializedVersion: 4
