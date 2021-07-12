@@ -7199,7 +7199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d395a1fca709a3e4f926f93af80468a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  presupuestoNivel: 1000
+  presupuestoNivel: 4500
   presupuestoActual: 0
   myUIManager: {fileID: 816150342}
 --- !u!1 &1942628012
