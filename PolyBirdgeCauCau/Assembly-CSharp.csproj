@@ -48,6 +48,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Point.cs" />
+     <Compile Include="Assets\Scripts\Exit.cs" />
      <Compile Include="Assets\Scripts\UIManager.cs" />
      <Compile Include="Assets\Scripts\BarCreator.cs" />
      <Compile Include="Assets\Scripts\Cuadricula.cs" />

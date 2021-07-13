@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 16
+  controlID: 17
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 17
+  controlID: 67
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 18
+  controlID: 68
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,7 +338,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -397,9 +397,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 1c4a0000
       m_LastClickedID: 0
-      m_ExpandedIDs: c2e8ffffb2f7ffffb4faffffea4d0000f44d0000
+      m_ExpandedIDs: fcbdffff72beffff58bfffff18c0fffff6c0ffffaec1ffff66c2ffff22c3ffffd2c3ffff8ec4ffff5ec5fffff0d2ffffd0d3ffff6ed4ffff0cd5ffffead5ffffbcf4ffff32f5ffff12f6ffffeaf6ffffc2f7ffffa6f8ffff86f9ffff40fbffff90590000b05b0000045c00001a6e0000066f0000ac6f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -459,9 +459,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 7.023765, y: -1.1871688, z: 463.1795}
+    m_Target: {x: 4.3436747, y: 0.56585395, z: -3.728402}
     speed: 2
-    m_Value: {x: 7.023765, y: -1.1871688, z: 463.1795}
+    m_Value: {x: 4.7611165, y: 0.7773859, z: -3.697649}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -512,9 +512,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 12.970908
+    m_Target: 8.158083
     speed: 2
-    m_Value: 12.970908
+    m_Value: 8.542495
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -602,22 +602,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: 57
   m_LastProjectPath: D:\proyectos\FINALCAUCAU\PolyBirdgeCauCau
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 9}
-    m_SelectedIDs: a84d0000
-    m_LastClickedID: 19880
-    m_ExpandedIDs: 000000005e4d0000604d0000624d0000644d0000664d0000684d00006a4d00006c4d00006e4d000000ca9a3b
+    m_SelectedIDs: e8490000
+    m_LastClickedID: 18920
+    m_ExpandedIDs: 00000000a0490000a2490000a4490000a6490000a8490000aa490000ac490000ae490000b049000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -645,7 +645,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005e4d0000604d0000624d0000644d0000664d0000684d00006a4d00006c4d00006e4d0000
+    m_ExpandedIDs: 00000000a0490000a2490000a4490000a6490000a8490000aa490000ac490000ae490000b0490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
