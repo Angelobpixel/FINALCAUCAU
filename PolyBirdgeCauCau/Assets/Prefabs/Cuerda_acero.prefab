@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3711061261987047490}
   - component: {fileID: 270558423248762490}
   - component: {fileID: 7311329954013615512}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cuerda_acero
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -165,7 +165,7 @@ HingeJoint2D:
   serializedVersion: 4
   m_EnableCollision: 1
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 800
+  m_BreakForce: Infinity
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 3.95, y: 0}
@@ -189,7 +189,7 @@ HingeJoint2D:
   serializedVersion: 4
   m_EnableCollision: 1
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 800
+  m_BreakForce: Infinity
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: -3.88, y: 0}

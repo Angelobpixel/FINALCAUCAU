@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3106273715765257805}
   - component: {fileID: 1971119238615283829}
   - component: {fileID: 9073884815212075927}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cuerda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -152,7 +152,7 @@ BoxCollider2D:
     adaptiveTiling: 1
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 7.9119644, y: 0.60670376}
+  m_Size: {x: 0.0001, y: 0.58}
   m_EdgeRadius: 0
 --- !u!233 &1971119238615283829
 HingeJoint2D:
@@ -165,10 +165,10 @@ HingeJoint2D:
   serializedVersion: 4
   m_EnableCollision: 1
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 800
+  m_BreakForce: Infinity
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
-  m_Anchor: {x: 3.95, y: 0}
+  m_Anchor: {x: -4.472136, y: -0.00000025331974}
   m_ConnectedAnchor: {x: 1.3595688, y: -2.3241174}
   m_UseMotor: 0
   m_Motor:
@@ -189,10 +189,10 @@ HingeJoint2D:
   serializedVersion: 4
   m_EnableCollision: 1
   m_ConnectedRigidBody: {fileID: 0}
-  m_BreakForce: 800
+  m_BreakForce: Infinity
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
-  m_Anchor: {x: -3.88, y: 0}
+  m_Anchor: {x: 4.472136, y: 0.00000025331974}
   m_ConnectedAnchor: {x: -0.59793115, y: -2.3241174}
   m_UseMotor: 0
   m_Motor:
