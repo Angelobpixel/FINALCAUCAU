@@ -1616,7 +1616,7 @@ ScriptsOnlyBuild:
     className: SpriteLibraryAsset
   - hash:
       serializedVersion: 2
-      Hash: c0ff2a3ad508a885f064f8f37dc996e4
+      Hash: 5ab75148048707a8b3528ed09421532d
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ObjetoColisionador
@@ -1689,4 +1689,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Fondo4.unity
   - Assets/Scenes/Fondo5.unity
   - Assets/Scenes/WP.unity
-  playerPath: C:/Users/USER/Desktop/j/PolyBirdgeCauCau.exe
+  playerPath: C:/Users/USER/Desktop/juego/PolyBirdgeCauCau.exe
