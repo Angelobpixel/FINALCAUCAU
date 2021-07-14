@@ -1366,7 +1366,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 5.2999897, y: 71.40001}
+  m_AnchoredPosition: {x: 5.299988, y: 71.40001}
   m_SizeDelta: {x: -478.32, y: -247.18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &277388905
@@ -4352,7 +4352,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5409855049870401472, guid: 319cde2df4907a54abf1652ca48e7760, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.3106732
+      value: 3.3106732
       objectReference: {fileID: 0}
     - target: {fileID: 5409855049870401472, guid: 319cde2df4907a54abf1652ca48e7760, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6703,7 +6703,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   objeto: {fileID: 1731052961}
   Panel: {fileID: 277388903}
-  cant_automoviles: 2
+  cant_automoviles: 1
 --- !u!61 &1794377878
 BoxCollider2D:
   m_ObjectHideFlags: 0

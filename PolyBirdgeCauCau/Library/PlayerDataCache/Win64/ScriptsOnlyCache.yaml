@@ -16,7 +16,6 @@ ScriptsOnlyBuild:
     - UnityEngine.U2D.Animation.SpriteSkin
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
@@ -357,6 +356,8 @@ ScriptsOnlyBuild:
     - Class: 233
       Script: {instanceID: 0}
     - Class: 235
+      Script: {instanceID: 0}
+    - Class: 252
       Script: {instanceID: 0}
     - Class: 19719996
       Script: {instanceID: 0}
@@ -1690,4 +1691,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Fondo4.unity
   - Assets/Scenes/Fondo5.unity
   - Assets/Scenes/WP.unity
-  playerPath: C:/Users/USER/Desktop/juego/PolyBirdgeCauCau.exe
+  playerPath: D:/proyectos/juego/PolyBirdgeCauCau.exe
