@@ -701,7 +701,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1508267505}
         m_TargetAssemblyTypeName: Menu_Manager_Secundario, Assembly-CSharp
         m_MethodName: BotonRederigirEscena
         m_Mode: 5
@@ -913,7 +913,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1508267505}
         m_TargetAssemblyTypeName: Menu_Manager_Secundario, Assembly-CSharp
         m_MethodName: BotonRederigirEscena
         m_Mode: 5
@@ -922,7 +922,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fondo1
+          m_StringArgument: Fondo4
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &232627535
@@ -1416,7 +1416,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1809137241022140181, guid: d8bd87677b167e249a99d81d2cf5e38d, type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1809137241022140181, guid: d8bd87677b167e249a99d81d2cf5e38d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2141,7 +2141,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5409855049870401472, guid: 319cde2df4907a54abf1652ca48e7760, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5409855049870401472, guid: 319cde2df4907a54abf1652ca48e7760, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4261,7 +4261,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1508267505}
         m_TargetAssemblyTypeName: Menu_Manager_Secundario, Assembly-CSharp
         m_MethodName: BotonRederigirEscena
         m_Mode: 5
@@ -4270,7 +4270,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fondo1
+          m_StringArgument: Fondo4
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &944114210
@@ -5313,6 +5313,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   objeto: {fileID: 1731052961}
   Panel: {fileID: 2059519726}
+  cant_automoviles: 1
 --- !u!61 &1375518198
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5530,7 +5531,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5409855049870401472, guid: 319cde2df4907a54abf1652ca48e7760, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5409855049870401472, guid: 319cde2df4907a54abf1652ca48e7760, type: 3}
       propertyPath: m_LocalScale.y
@@ -6702,6 +6703,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   objeto: {fileID: 1731052961}
   Panel: {fileID: 277388903}
+  cant_automoviles: 2
 --- !u!61 &1794377878
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6961,7 +6963,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1508267505}
         m_TargetAssemblyTypeName: Menu_Manager_Secundario, Assembly-CSharp
         m_MethodName: BotonRederigirEscena
         m_Mode: 5
@@ -6970,7 +6972,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Fondo2
+          m_StringArgument: Fondo5
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1840518958

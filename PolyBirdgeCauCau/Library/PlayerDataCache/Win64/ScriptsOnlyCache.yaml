@@ -20,8 +20,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -1691,4 +1689,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Fondo4.unity
   - Assets/Scenes/Fondo5.unity
   - Assets/Scenes/WP.unity
-  playerPath: C:/Users/USER/Desktop/juego/PolyBirdgeCauCau.exe
+  playerPath: C:/Users/USER/Desktop/j/PolyBirdgeCauCau.exe

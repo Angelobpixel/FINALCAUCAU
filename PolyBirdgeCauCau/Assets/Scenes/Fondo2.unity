@@ -876,6 +876,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   objeto: {fileID: 1247579864}
   Panel: {fileID: 738693477}
+  cant_automoviles: 1
 --- !u!61 &216641262
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3540,6 +3541,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   objeto: {fileID: 1247579864}
   Panel: {fileID: 1115703067}
+  cant_automoviles: 1
 --- !u!61 &889607670
 BoxCollider2D:
   m_ObjectHideFlags: 0
